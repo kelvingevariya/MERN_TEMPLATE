@@ -10,7 +10,7 @@ This is the simple template for developing MERN applications
     the sample env id given for the reference
 
 
-##Versions
+## Versions
 
 ### -Frontend
 - react: 18.2.0,
