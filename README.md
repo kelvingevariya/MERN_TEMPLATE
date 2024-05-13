@@ -23,7 +23,7 @@ This is the simple template for developing MERN applications
 - @typescript-eslint/parser: 7.2.0
 - @vitejs/plugin-react: 4.2.1
 - eslint: 8.57.0
-- eslint-plugin-react-hooks: ^4.6.0
+- eslint-plugin-react-hooks: 4.6.0
 - eslint-plugin-react-refresh: 0.4.6
 - typescript: 5.2.2
 - vite: 5.2.0
